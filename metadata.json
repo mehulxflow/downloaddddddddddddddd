@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Sachin Academy - 2",
+  "description": "Complete online learning portal for Sachin Academy batches (CTET, BPSC TRE, KVS/NVS, UP SuperTET, DSSSB) with permanently unlocked HLS video lectures, PDF handouts, timed notes, and offline batch vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

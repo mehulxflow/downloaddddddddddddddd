@@ -1,0 +1,64 @@
+{
+  "updatedAt": "2026-11-14T16:13:08.985Z",
+  "appName": "mehulxstudy",
+  "tagline": "Knowledge & Success",
+  "logoUrl": "",
+  "lockEnabled": false,
+  "lockCode": "7788",
+  "lockVersion": "v_1794577439540",
+  "hiddenBatchIds": [],
+  "hiddenSubjectKeys": [],
+  "hiddenLectureIds": [],
+  "visitorLogs": [
+    {
+      "id": "vis_1794659366538_ec5fe",
+      "ip": "34.34.254.80",
+      "device": "Desktop · Linux · Chrome",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36",
+      "location": "UTC",
+      "firstSeenAt": "2026-11-14T12:29:26.538Z",
+      "lastSeenAt": "2026-11-14T16:13:07.789Z",
+      "visitCount": 14,
+      "lastAction": "Opened mehulxstudy Home Page"
+    },
+    {
+      "id": "vis_1794638584512_635z6",
+      "ip": "127.0.0.1",
+      "device": "Desktop · Linux · Chrome",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36",
+      "location": "India / Global",
+      "firstSeenAt": "2026-11-14T06:43:04.512Z",
+      "lastSeenAt": "2026-11-14T16:13:06.985Z",
+      "visitCount": 19,
+      "lastAction": "Viewing All Batches (Home Page)"
+    },
+    {
+      "id": "vis_1794638585167_nph6u",
+      "ip": "34.96.48.65",
+      "device": "Desktop · Linux · Chrome",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36",
+      "location": "UTC",
+      "firstSeenAt": "2026-11-14T06:43:05.167Z",
+      "lastSeenAt": "2026-11-14T06:53:48.293Z",
+      "visitCount": 11,
+      "lastAction": "Viewing Batch: CTET PAPER - 1 COURSE*"
+    },
+    {
+      "id": "vis_1794638552341_yijd6",
+      "ip": "127.0.0.1",
+      "device": "Desktop · OS · Browser",
+      "userAgent": "node",
+      "location": "India / Global",
+      "firstSeenAt": "2026-11-14T06:42:32.341Z",
+      "lastSeenAt": "2026-11-14T06:42:32.341Z",
+      "visitCount": 1,
+      "lastAction": "Viewing All Batches (Home Page)"
+    }
+  ],
+  "lectureOverrides": {},
+  "telegramCompletedByCourse": {},
+  "telegramTopicCache": {
+    "CDP": 3
+  },
+  "telegramMtprotoSession": ""
+}
